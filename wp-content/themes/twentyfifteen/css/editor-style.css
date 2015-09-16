@@ -22,7 +22,7 @@ Description: Used to style the TinyMCE editor.
  * 1.0 Body
  */
 
-body {
+body, p1 {
 	color: #333;
 	font-family: "Noto Serif", serif;
 	font-weight: 400;
